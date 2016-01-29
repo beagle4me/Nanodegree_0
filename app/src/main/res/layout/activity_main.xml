@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#039BE5">
+
+    <TextView android:layout_width="match_parent" android:layout_height="100dp"
+        android:gravity="center" android:text="My Nanodegree Apps!!"
+        android:textSize="30dp"
+        />
+
+    <Button
+        style="@style/main_screen_button"
+        android:text="@string/app_name_1"
+        android:id="@+id/app_name_1"
+        />
+    <Button
+        style="@style/main_screen_button"
+        android:text="@string/app_name_2"
+        android:id="@+id/app_name_2"
+        />
+    <Button
+        style="@style/main_screen_button"
+        android:text="@string/app_name_3"
+        android:id="@+id/app_name_3"
+        />
+
+    <Button
+        style="@style/main_screen_button"
+        android:text="@string/app_name_4"
+        android:id="@+id/app_name_4"
+        />
+
+    <Button
+        style="@style/main_screen_button"
+        android:text="@string/app_name_5"
+        android:id="@+id/app_name_5"
+        />
+
+    <Button
+        style="@style/main_screen_button"
+        android:text="@string/final_app_name"
+        android:background="@android:color/holo_red_light"
+        android:id="@+id/final_app"
+        />
+
+
+</LinearLayout>
