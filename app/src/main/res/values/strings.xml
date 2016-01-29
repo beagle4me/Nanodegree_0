@@ -7,5 +7,6 @@
     <string name="app_name_4">Build It Bigger</string>
     <string name="app_name_5">XYZ Reader</string>
     <string name="final_app_name">Capstone</string>
+    <string name="default_toast">This app will launch my </string>
 
 </resources>
